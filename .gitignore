@@ -1,5 +1,4 @@
 /vendor/
-/phpunit.xml.dist
 /coverage.xml
 /results.xml
 /.phpunit.result.cache
