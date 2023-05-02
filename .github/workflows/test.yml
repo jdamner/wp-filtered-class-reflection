@@ -45,4 +45,4 @@ jobs:
         if: success() || failure() # always run even if the previous step fails
         with:
           report_paths: 'results.xml'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
